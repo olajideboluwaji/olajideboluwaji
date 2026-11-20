@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Olajide Boluwaji 👋
 
-<!--
-**olajideboluwaji/olajideboluwaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### SEO Content Writer | Aspiring Front-End Developer
 
-Here are some ideas to get you started:
+I'm an SEO content writer expanding my skills into front-end web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With experience in content writing, research, and SEO, I'm now learning how to build websites and bring ideas to life through code.
+
+### What I'm Learning
+
+- HTML5
+- CSS3
+- CSS Grid
+- Responsive Web Design
+- Front-End Development
+
+### My Projects
+
+- Personal Portfolio Website
+- HTML & CSS Practice Projects
+- Website Layouts and Design Experiments
+
+### My Background
+
+- SEO Content Writing
+- Content Research
+- iGaming Content
+- Website Content Development
+
+### Connect With Me
+
+- Portfolio: https://olajideboluwaji.github.io
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/boluwaji-olajide/)
+
+---
+
+*Learning, building, and improving one project at a time.*
